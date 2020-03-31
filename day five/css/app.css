@@ -300,6 +300,10 @@ p.footer-text {
   .big-container {
     padding-bottom: 100px; }
 
+  h1.restaurant-text {
+    font-size: 2rem
+  }
+
   .col-6.about-text {
     margin: auto; }
 
