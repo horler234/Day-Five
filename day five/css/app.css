@@ -304,6 +304,10 @@ p.footer-text {
     font-size: 2rem
   }
 
+  .welcome-text {
+    width: 100%;
+  }
+
   .col-6.about-text {
     margin: auto; }
 
